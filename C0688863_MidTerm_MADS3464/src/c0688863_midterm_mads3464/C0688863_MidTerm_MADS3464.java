@@ -16,7 +16,15 @@ public class C0688863_MidTerm_MADS3464 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String String1="cestar";
+        String String2="";
+        {
+            for(int i=String1.length()-1; i>0;i--)
+            String2 = String2 + String1.charAt(i);
+              
+            System.out.println("the reverse string is" +String2);
         
+        }   
     }
     
 }

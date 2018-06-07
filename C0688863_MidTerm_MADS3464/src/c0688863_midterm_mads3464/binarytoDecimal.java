@@ -10,5 +10,10 @@ package c0688863_midterm_mads3464;
  * @author macstudent
  */
 public class binarytoDecimal {
+  
+    public static void main(string[] args)
+    {
+        
+    }
     
 }
