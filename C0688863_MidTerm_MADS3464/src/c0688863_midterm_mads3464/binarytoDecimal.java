@@ -9,14 +9,6 @@ package c0688863_midterm_mads3464;
  *
  * @author macstudent
  */
-public class C0688863_MidTerm_MADS3464 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-    }
+public class binarytoDecimal {
     
 }
