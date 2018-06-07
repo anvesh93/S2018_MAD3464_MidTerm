@@ -18,13 +18,23 @@ public class C0688863_MidTerm_MADS3464 {
         // TODO code application logic here
         String String1="cestar";
         String String2="";
+        String str= "james cook";
+        String str2;
         {
             for(int i=String1.length()-1; i>0;i--)
-            String2 = String2 + String1.charAt(i);
-              
-            System.out.println("the reverse string is" +String2);
+            String2 = String2 + String1.charAt(i)  ;
+             
+            System.out.println("the reverse string is" + String2);
         
-        }   
+        } 
+        if(str==null)
+        {
+            System.out.println("The String is empty");
+        }
+        for (int j=1; j<str.length();j++)
+            str2=str.toUpperCase()+str.charAt(j);
+        
+        System.out.println(str2);
     }
     
 }
